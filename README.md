@@ -37,6 +37,7 @@ This project is a Discord bot that uses Google Generative AI and web scraping to
 
 1. **Run the bot:**
     ```sh
+    cd src
     python main.py
 2. **Interact with the bot**
 - Send a message in the `get-code` channel to get a response from the bot.
